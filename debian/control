@@ -30,4 +30,4 @@ Depends: ${misc:Depends}, ${python:Depends}
   , isoquery, iso-codes, locales
   , adduser
 Description: Live Installer
- A live installer
+ A live installer for the distro
